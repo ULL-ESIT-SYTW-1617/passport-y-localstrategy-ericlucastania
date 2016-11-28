@@ -78,7 +78,7 @@ Una vez que se te creado el repo ya puedes trabajar en él,ya no tendrás que po
 **3. Generando aplicación**
 
 
-* Cambiar en el archivo datos_dropbox.json los datos creándote una nueva app en Dropbox
+* Cambiar en el archivo datos.json los datos creándote una nueva app en Dropbox
 en el siguiente enlace [Enlace a Create App](https://www.dropbox.com/developers/apps)
  
 
@@ -89,7 +89,7 @@ en el siguiente enlace [Enlace a Create App](https://www.dropbox.com/developers/
 ![Crear App](https://4.bp.blogspot.com/-UlTBnQwXI3I/WDwCwWyU-iI/AAAAAAAAAps/JBVDykAvYCocOYNkUrWsHjhHrX3zUyYwQCLcB/s1600/Captura%2Bde%2Bpantalla%2Bde%2B2016-11-28%2B10%253A03%253A25.PNG)
 
 * Una vez creada la aplicación vete a donde pone Generate token y clica sobre él,el token que se 
- te genera lo copias y lo pegas en el archivo "datos_dropbox" sustituyendo el token que está por el que acabas 
+ te genera lo copias y lo pegas en el archivo "datos.json" sustituyendo el token que está por el que acabas 
  de copiar
 
 
